@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://127.0.0.1:27017/pizza',{
+mongoose.connect('mongodb://myUserAdmin:saketh123@127.0.0.1:27017/pizza?authSource=admin',{
   useNewUrlParser:true,
   useCreateIndex:true,
   useFindAndModify:true,
