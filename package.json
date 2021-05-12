@@ -37,7 +37,7 @@
   "devDependencies": {
     "cross-env": "^7.0.3",
     "laravel-mix": "^6.0.5",
-    "postcss": "^8.2.1",
+    "postcss": "^8.2.10",
     "resolve-url-loader": "^3.1.0",
     "sass": "^1.30.0",
     "sass-loader": "^8.0.2"
